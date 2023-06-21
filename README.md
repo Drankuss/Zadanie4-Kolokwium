@@ -8,6 +8,6 @@ Instalacja
 Uruchamianie
 
 1. Wpsujemy  **npm run dev**
-2. Wchodzimy na odpowiednią stronę podana przez terminal np. ** http://localhost:5173/**
+2. Wchodzimy na odpowiednią stronę podana przez terminal np. http://localhost:5173/
 
 
