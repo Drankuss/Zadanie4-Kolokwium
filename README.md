@@ -3,7 +3,7 @@
 
 Instalacja
 
-1. Wpisujemy w terminalu w odpowiedniej lokalizacji pliku:  **npm install**
+1. Wpisujemy w terminalu w odpowiedniej lokalizacji tego projektu:  **npm install**
 #
 Uruchamianie
 
